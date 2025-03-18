@@ -37,7 +37,7 @@ const ServiceMain = () => {
             data-aos="fade-up"
             className="text-[20px] font-[rale-medium] pl-5 "
           >
-            Maşyn hyzmatlarynyň giň gerimini hödürleýäris
+            Awtoulag hyzmatlarynyň giň gerimini hödürleýäris
           </p>
         </div>
 
@@ -47,7 +47,7 @@ const ServiceMain = () => {
             icon={icon6}
             header={"Mator / Abatlaýyş"}
             desc={
-              "Lorem ipsum dolor sit amet consectetur. Sit est justo nec interdum est condimentum at facilisi tempus. "
+              "Awtoulagyňyzyň hereketlendirijisi — onuň ýüregi. Biziň hünärmenlerimiz matoryň abatlaýyş we hyzmat işlerini ýokary hilli ýerine ýetirip, ulagyňyzyň güýjüni we ygtybarlylygyny dikeldýärler."
             }
           />
           <ServiceCard
@@ -55,7 +55,7 @@ const ServiceMain = () => {
             icon={icon5}
             header={"Karobka hyzmaty"}
             desc={
-              "Lorem ipsum dolor sit amet consectetur. Sit est justo nec interdum est condimentum at facilisi tempus. "
+              "KPP (karobka) ulgamynyň dogry işlemegi ulagyň hereketiniň rahatlygyny üpjün edýär. Biz awtomatiki we mehaniki karobkalary abatlaýarys, ýagyny çalyşýarys we degişli sazlamalary geçirýäris."
             }
           />
           <ServiceCard
@@ -63,7 +63,7 @@ const ServiceMain = () => {
             icon={icon4}
             header={"Teker"}
             desc={
-              "Lorem ipsum dolor sit amet consectetur. Sit est justo nec interdum est condimentum at facilisi tempus. "
+              "Howpsuz sürüşiň esasy şerti — hil taýdan dogry saýlanan we gurnalan tekerler. Biz tekerleri çalyşmak, balanslamak we abatlamak hyzmatlaryny hödürleýäris."
             }
           />
           <ServiceCard
@@ -71,7 +71,7 @@ const ServiceMain = () => {
             icon={icon3}
             header={"Boýag hyzmatlary"}
             desc={
-              "Lorem ipsum dolor sit amet consectetur. Sit est justo nec interdum est condimentum at facilisi tempus. "
+              "Ulagyňyz täze ýaly görünsin! Biz ýokary hilli boýag we kosmetiki abatlaýyş hyzmatlaryny ýerine ýetirýäris. Döwrebap tehnologiýalar arkaly ulagyňyzyň daşky görnüşini dikeldýäris."
             }
           />
           <ServiceCard
@@ -79,7 +79,7 @@ const ServiceMain = () => {
             icon={icon2}
             header={"Diagnostika"}
             desc={
-              "Lorem ipsum dolor sit amet consectetur. Sit est justo nec interdum est condimentum at facilisi tempus. "
+              "Döwürlaýyn diagnostika ulagyňyzyň kynçylyksyz işlemegini üpjün edýär. Biz ýöriteleşdirilen enjamlar arkaly ähli ulgamlary barlap, kemçilikleri wagtynda ýüze çykarýarys."
             }
           />
           <ServiceCard
@@ -87,7 +87,7 @@ const ServiceMain = () => {
             icon={icon1}
             header={"Tormoz"}
             desc={
-              "Lorem ipsum dolor sit amet consectetur. Sit est justo nec interdum est condimentum at facilisi tempus. "
+              "Howpsuzlyk ilkinji nobatda! Tormoz ulgamyňyz ygtybarly bolmagy üçin biz tormoz padlagalaryny, diskleri we beýleki zerur şaýlary çalyşýarys hem-de abatlaýarys."
             }
           />
         </div>

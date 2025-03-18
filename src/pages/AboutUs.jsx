@@ -99,34 +99,13 @@ const AboutUs = () => {
 
       <div className="w-[90%] mx-auto text-[20px] font-[rale-medium] ">
         <p className="mb-3">
-          Lorem ipsum dolor sit amet consectetur. Id venenatis mi id quis
-          volutpat sed odio aliquam consequat. Arcu amet sagittis blandit et.
-          Netus vel facilisis non vitae consequat est. Luctus magna amet
-          pellentesque tortor vestibulum tincidunt. Dolor sit molestie at et.
-          Lectus ac tortor interdum urna nam turpis diam imperdiet cursus.
-          Turpis nec egestas consequat neque orci vulputate lectus scelerisque
-          posuere.molestie at et. Lectus ac tortor interdum urna nam turpis diam
-          imperdiet cursus. Turpis nec egestas consequat neque orci vulputate
-          lectus scelerisque posuere.Lorem ipsum dolor sit amet consectetur. Id
-          venenatis mi id quis volutpat sed odio aliquam consequat. Arcu amet
-          sagittis blandit et. Netus vel facilisis non vitae consequat est.
-          Luctus magna amet pellentesque tortor vestibulum tincidunt. Dolor sit
-          molestie at et. Lectus ac tortor interdum urna nam turpis diam
-          imperdiet cursus. Turpis nec egestas consequat neque orci vulputate
-          lectus scelerisque posuere.molestie at et. Lectus ac tortor interdum
-          urna nam turpis diam imperdiet cursus. Turpis nec egestas consequat
-          neque orci vulputate lectus scelerisque posuere.
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet consectetur. Id venenatis mi id quis
-          volutpat sed odio aliquam consequat. Arcu amet sagittis blandit et.
-          Netus vel facilisis non vitae consequat est. Luctus magna amet
-          pellentesque tortor vestibulum tincidunt. Dolor sit molestie at et.
-          Lectus ac tortor interdum urna nam turpis diam imperdiet cursus.
-          Turpis nec egestas consequat neque orci vulputate lectus scelerisque
-          posuere.molestie at et. Lectus ac tortor interdum urna nam turpis diam
-          imperdiet cursus. Turpis nec egestas consequat neque orci vulputate
-          lectus scelerisque posuere.
+        "Köpetdag-Lada" AGPJ awtoserwisi — siziň awtoulagyňyzy hyzmat etmekde we 
+        abatlamakda ygtybarly hyzmatdaş. Biz giň gerimli hyzmatlary hödürleýäris: 
+        diagnoz goýmakdan we tekerleri çalyşmakdan başlap, hereketlendirijini, KPP-ni 
+        bejermäge hem-de boýag işlerine çenli. Tejribeli ussalarymyz döwrebap enjamlar 
+        we ýokary hilli ätiýaçlyk şaýlary ulanyp, ulagyňyzyň uzak we bökdençsiz işlemegini 
+        üpjün edýärler. Biz aýratyn çemeleşmegi, elýeterli bahalary we işleriň çalt ýerine 
+        ýetirilmegini kepillendirýäris. Hünärmenlere ynanyň — siziň awtoulagyňyz ygtybarly ellerde!
         </p>
       </div>
     </div>
